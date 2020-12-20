@@ -1,2 +1,2 @@
-# Class44
-Self-Designed Game 1
+# p5.play-boilerplate
+Boiler plate for p5.play
